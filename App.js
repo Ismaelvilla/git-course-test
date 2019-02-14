@@ -39,7 +39,7 @@ class UI {
             element.parentElement.parentElement.parentElement.remove();
             console.log(element.parentElement.parentElement.parentElement);
             //vamos a mostrar un mensaje al eliminar el elemento
-            this.showMessage('Product Deleted Successfully','info');
+            this.showMessage('Product Deleted Successfully ','info');
         }
     }
 
